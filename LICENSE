@@ -659,3 +659,13 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+Additional Terms (Commercial Use and Hosting):
+
+This software is licensed under AGPL-3.0. You are free to use, modify, and self-host it, 
+provided you comply with the license terms.
+
+However, **if you offer this software as a hosted service (SaaS)** or use it as part of a commercial product, 
+you must obtain a commercial license from the original author.
+
+Contact: bart@helder-solutions.nl
